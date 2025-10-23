@@ -63,4 +63,10 @@ The geometry was imported from the CFD model, meshed, and constrained according 
 ---
 
 ## 📂 Project Structure
-
+Turbine_Casing_Analysis/
+│
+├── Geometry/ # 3D model and setup files
+├── CFD_Simulation/ # Flow simulation setup and results
+├── FEM_Simulation/ # Structural analysis results
+├── Presentation/ # Summary PowerPoint or PDF
+└── README.md # This file
