@@ -26,9 +26,6 @@ Main findings include:
 - Smooth flow distribution with minimal recirculation zones  
 - Consistent behavior with the expected flow path for the given geometry  
 
-**Figure – CFD Velocity Field (Absolute Velocity, m/s):**  
-![CFD_Velocity_Field](CFD_Simulation/velocity_field.jpg)
-
 ---
 
 ## 🧱 FEM Analysis
@@ -39,10 +36,6 @@ The geometry was imported from the CFD model, meshed, and constrained according 
 - Maximum **Von Mises stress:** ~6.9 MPa  
 - The stress levels are **well below the yield strength** of typical casing materials  
 - Uniform stress gradient indicating good stiffness and load distribution  
-
-**Figures – Structural Results:**  
-- ![FEM_Force_View](FEM_Simulation/vista_alto_Forze.jpg)  
-- ![FEM_Stress_View](FEM_Simulation/vista_alto_VM.jpg)
 
 ---
 
