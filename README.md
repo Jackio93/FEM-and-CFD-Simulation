@@ -63,3 +63,6 @@ Turbine_Casing_Analysis/
 ├── FEM_Simulation/ # Structural analysis results
 ├── Presentation/ # Summary PowerPoint or PDF
 └── README.md # This file
+
+The geometry was created exclusively for educational and demonstration purposes.
+It does not represent any proprietary or commercial product.
